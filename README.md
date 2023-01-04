@@ -58,10 +58,19 @@ To store the database of the User, you will need to add the following environmen
 
 ## Screenshots
 
-#### Sign-up
+### Sign-up
 ![App Screenshot](https://user-images.githubusercontent.com/68366503/210636625-d41ce4d7-3e1b-4c19-812a-70e5bdbe1523.png)
 
-#### Log-in
+### Log-in
 ![App Screenshot](https://user-images.githubusercontent.com/68366503/210637252-83a91b7d-320d-4872-a09f-3ba0f54c51b0.png)
-# DevSpace
+
+### Feed displays the latest posts from the people you follow
+![App Screenshot](https://user-images.githubusercontent.com/68366503/210637706-bb56f44a-1d07-4a92-88a1-379da2243ff5.png)
+
+### Latest feed from the people you connected
+![App Screenshot](https://user-images.githubusercontent.com/68366503/210637963-f15934d3-673b-49f1-b299-90a040596d5c.png)
+
+### Create and Publish post on the new Technology’s
+![App Screenshot](https://user-images.githubusercontent.com/68366503/210638197-48b548ea-77f6-4835-b10b-c5538de19d3a.png)
+
 
