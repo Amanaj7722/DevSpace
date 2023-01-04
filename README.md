@@ -58,6 +58,10 @@ To store the database of the User, you will need to add the following environmen
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/68366503/210617140-b16db1ca-1032-4906-8edf-52a190df2842.png)
-![image](https://user-images.githubusercontent.com/68366503/210636625-d41ce4d7-3e1b-4c19-812a-70e5bdbe1523.png)
+#### Sign-up
+![App Screenshot](https://user-images.githubusercontent.com/68366503/210636625-d41ce4d7-3e1b-4c19-812a-70e5bdbe1523.png)
+
+#### Log-in
+![App Screenshot](https://user-images.githubusercontent.com/68366503/210637252-83a91b7d-320d-4872-a09f-3ba0f54c51b0.png)
+# DevSpace
 
