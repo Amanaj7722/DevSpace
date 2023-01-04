@@ -27,6 +27,17 @@
 
 Version control- Git
 
+## Features covered in the project
+
+- Authentication(Signup and login for users) using session and jwt token both covered.
+- CRUD operation in mongoDB for users to create, edit and delete post.
+- Users can follow each other and view according to followings.
+- MVC architecture.
+- Using middlewares and validations.
+- Search feature to search post of your interest.
+- Using webpack.
+- Chat using socket.(Advance feature). 
+- Implementing REST API.
 
 
 ## Deployment
