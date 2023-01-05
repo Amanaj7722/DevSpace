@@ -1,5 +1,5 @@
 
-![Logo](https://user-images.githubusercontent.com/68366503/210620168-9f5438bc-4ead-4e03-b3f6-0dce74ece955.png)
+![Logo](https://user-images.githubusercontent.com/68366503/210711920-72a18bc3-cee3-49d5-afa6-c341d46c083c.png)
 
 
 # DevSpace
